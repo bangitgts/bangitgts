@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangitgts)](https://github.com/bangitgts/github-readme-stats)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bangitgts&hide=contribs,prs)
 <!--
 **bangitgts/bangitgts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
